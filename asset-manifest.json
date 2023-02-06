@@ -1,20 +1,21 @@
 {
   "files": {
     "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.8a401837.js",
+    "main.js": "/static/js/main.2590fbfe.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/bewkoof-img.png": "/static/media/bewkoof-img.cde324e6443362d8d4a9.png",
     "static/media/fitnessblender.png": "/static/media/fitnessblender.c2143ae872f3f458c80e.png",
     "static/media/monster.png": "/static/media/monster.ea444f2cecdfbdfc1680.png",
+    "static/media/Ganesh_Bahire_Resume.pdf": "/static/media/Ganesh_Bahire_Resume.4dd1befb743b85e4e68c.pdf",
     "static/media/commit.png": "/static/media/commit.56910be517500dce1386.png",
     "static/media/Gitcommit.png": "/static/media/Gitcommit.4047b07195998af8e0d1.png",
     "index.html": "/index.html",
     "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.8a401837.js.map": "/static/js/main.8a401837.js.map",
+    "main.2590fbfe.js.map": "/static/js/main.2590fbfe.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.8a401837.js"
+    "static/js/main.2590fbfe.js"
   ]
 }
