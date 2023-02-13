@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.b35a828b.js",
+    "main.js": "/static/js/main.1526b1c6.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/bewkoof-img.png": "/static/media/bewkoof-img.cde324e6443362d8d4a9.png",
     "static/media/fitnessblender.png": "/static/media/fitnessblender.c2143ae872f3f458c80e.png",
@@ -11,11 +11,11 @@
     "static/media/Gitcommit.png": "/static/media/Gitcommit.4047b07195998af8e0d1.png",
     "index.html": "/index.html",
     "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.b35a828b.js.map": "/static/js/main.b35a828b.js.map",
+    "main.1526b1c6.js.map": "/static/js/main.1526b1c6.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.b35a828b.js"
+    "static/js/main.1526b1c6.js"
   ]
 }
